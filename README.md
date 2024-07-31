@@ -1,4 +1,4 @@
-# Sistema de Vendas - Perenciamento de Clientes
+# Sistema de Vendas - Gerenciamento de Clientes
 
 ## Melhorias e atualizações
 > Não haverá algo programado para entrar em uma atualização ou outra.
